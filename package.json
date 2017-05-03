@@ -1,0 +1,27 @@
+{
+  "name": "slack-bot-joker",
+  "version": "1.0.0",
+  "description": "entertaining slack bot",
+  "main": "scripts/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayu15/slack-bot-joker.git"
+  },
+  "keywords": [
+    "slack",
+    "bot"
+  ],
+  "author": "Ayush Sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ayu15/slack-bot-joker/issues"
+  },
+  "homepage": "https://github.com/ayu15/slack-bot-joker#readme",
+  "devDependencies": {
+    "http": "0.0.0",
+    "http-server": "^0.9.0"
+  }
+}
